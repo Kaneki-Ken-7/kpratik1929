@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kpratik1929
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Tableau and Power BI
-- 💞️ I’m looking to collaborate on Data analysis, EDA, Data Visualisation, Machine learning.
+- 🌱 I’m currently learning Typescript and Nextjs
+- 💞️ I’m looking to collaborate on React, Nextjs, Typescript Projects.
 
 
 <!---
